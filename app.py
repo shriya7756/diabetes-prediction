@@ -1,7 +1,5 @@
 import pandas as pd
-import numpy as np
 import joblib
-import os
 from flask import Flask, request, render_template
 from datetime import datetime
 
